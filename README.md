@@ -1,0 +1,2 @@
+# specola
+Museology Project
