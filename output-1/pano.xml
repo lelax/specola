@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" start="node5" appversion="6.1.15">
+  <panorama id="node5">
+    <input levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="4095" height="4095" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4095" height="4095" preload="0" predecode="0"/>
+      <level width="2047" height="2047" preload="0" predecode="0"/>
+      <level width="1023" height="1023" preload="0" predecode="0"/>
+      <level width="511" height="511" preload="0" predecode="0"/>
+      <level width="255" height="255" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-35.2553" fovpixel="2"/>
+      <max pan="180" tilt="35.2553" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="" info="" latitude="" description="" longitude="" heading="0" author="" nodeid="node5" copyright="" customnodeid="" datetime="" comment="" source="" tags="Specola_3"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot title="Enter in the room" url="{node3}" pan="-13.34" target="" description="" id="Point01" skinid="ht_node" tilt="2.29"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="4095" height="4095" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4095" height="4095" preload="0" predecode="0"/>
+      <level width="2047" height="2047" preload="0" predecode="0"/>
+      <level width="1023" height="1023" preload="0" predecode="0"/>
+      <level width="511" height="511" preload="0" predecode="0"/>
+      <level width="255" height="255" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225.174">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-36.4249" fovpixel="2"/>
+      <max pan="180" tilt="36.4249" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="" info="" latitude="44.496814" description="" longitude="11.352406" heading="225.174" author="" nodeid="node3" copyright="" altitude="52.87" customnodeid="" datetime="03/07/22 16:05" comment="" source="" tags="Specola_3"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot title="Come here to see what behind the wall" url="{node2}" pan="-329.2" target="" description="" distance="3.44792" id="Point01" skinid="ht_node" tilt="7.2"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="4095" height="4095" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4095" height="4095" preload="0" predecode="0"/>
+      <level width="2047" height="2047" preload="0" predecode="0"/>
+      <level width="1023" height="1023" preload="0" predecode="0"/>
+      <level width="511" height="511" preload="0" predecode="0"/>
+      <level width="255" height="255" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="290.483">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-35.2553" fovpixel="2"/>
+      <max pan="180" tilt="35.2553" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="" info="" latitude="44.496806" description="" longitude="11.352364" heading="290.483" author="" nodeid="node2" copyright="" altitude="53.36" customnodeid="" datetime="03/07/22 16:03" comment="" source="" tags="Specola_3"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot title="What's on the floor?" url="{node6}" pan="-65.25" target="" description="" id="Point01" skinid="ht_node" tilt="-28.43"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="4095" height="4095" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4095" height="4095" preload="0" predecode="0"/>
+      <level width="2047" height="2047" preload="0" predecode="0"/>
+      <level width="1023" height="1023" preload="0" predecode="0"/>
+      <level width="511" height="511" preload="0" predecode="0"/>
+      <level width="255" height="255" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-35.2553" fovpixel="2"/>
+      <max pan="180" tilt="35.2553" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="" info="" latitude="" description="" longitude="" heading="0" author="" nodeid="node6" copyright="" customnodeid="" datetime="" comment="" source="" tags="Specola_3"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" info="" latitude="" description="" longitude="" heading="0" author="" nodeid="master" copyright="" customnodeid="" datetime="" comment="" source="" tags=""/>
+  </masternode>
+</tour>
