@@ -46,8 +46,16 @@
       <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot title="Come here to see what behind the wall" url="{node2}" pan="-329.2" target="" description="" distance="3.44792" id="Point01" skinid="ht_node" tilt="7.2"/>
+      <hotspot distance3D="280.036" title="go back" url="{node5}" customimagewidth="49" customimageheight="49" pan="-202.65" target="" use3D="0" description="" id="Point02" skinid="ht_node" tilt="-14.25" customimage="media/back.png" fov="10"/>
     </hotspots>
-    <media/>
+    <media>
+      <image roty="-9.000" clickmode="4" stretch="1.000" pan="-47.400" rotz="0.000" rotx="4.000" width="600" id="Element01" height="471" tilt="7.930" handcursor="0" fov="16.529">
+        <source url="media/popup_meriView.png"/>
+      </image>
+      <image roty="-13.000" clickmode="4" stretch="1.000" pan="-75.660" rotz="0.000" rotx="0.000" width="600" id="Element02" height="471" tilt="8.360" handcursor="0" fov="11.630">
+        <source url="media/popup_corner.png"/>
+      </image>
+    </media>
     <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
@@ -72,8 +80,16 @@
       <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot title="What's on the floor?" url="{node6}" pan="-65.25" target="" description="" id="Point01" skinid="ht_node" tilt="-28.43"/>
+      <hotspot distance3D="371.477" title="go back" url="{node3}" customimagewidth="65" customimageheight="65" pan="-209.8" target="" use3D="0" description="" distance="3.44792" id="Point02" skinid="ht_node" tilt="1.51" customimage="media/back.png" fov="10"/>
     </hotspots>
-    <media/>
+    <media>
+      <image roty="-11.000" clickmode="4" stretch="1.000" pan="-260.000" rotz="0.000" rotx="-2.000" width="600" id="Element01" height="471" tilt="15.370" handcursor="0" fov="9.180">
+        <source url="media/pop_up_clock.png"/>
+      </image>
+      <image roty="0.000" clickmode="4" stretch="1.000" pan="-297.820" rotz="0.000" rotx="0.000" width="600" id="Element02" height="471" tilt="11.290" handcursor="0" fov="12.860">
+        <source url="media/popup_quadrante.png"/>
+      </image>
+    </media>
     <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" lockedmouse="0" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0"/>
@@ -97,6 +113,7 @@
     <hotspots wordwrap="1" width="180" height="20">
       <label borderalpha="1" wordwrap="1" width="180" textalpha="1" backgroundalpha="1" borderradius="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" background="1" bordercolor="0x000000" border="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot distance3D="400.052" title="go back" url="{node2}" customimagewidth="70" customimageheight="70" pan="-186.23" target="" use3D="0" description="" id="Point01" skinid="ht_node" tilt="-12.1" customimage="media/back.png" fov="10"/>
     </hotspots>
     <media/>
     <transition softedge="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomspeed="2"/>
